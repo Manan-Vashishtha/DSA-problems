@@ -9,6 +9,7 @@ Leetcode DSA problems
 | [0001-two-sum](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0027-remove-element) |
+| [0066-plus-one](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0217-contains-duplicate) |
 ## Hash Table
@@ -29,4 +30,8 @@ Leetcode DSA problems
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0217-contains-duplicate) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
