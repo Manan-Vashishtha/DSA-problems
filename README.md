@@ -17,6 +17,7 @@ Leetcode DSA problems
 | [0217-contains-duplicate](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0283-move-zeroes) |
+| [0877-stone-game](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0877-stone-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,6 +40,7 @@ Leetcode DSA problems
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0877-stone-game](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0877-stone-game) |
 ## Sorting
 |  |
 | ------- |
@@ -52,6 +54,7 @@ Leetcode DSA problems
 | ------- |
 | [0066-plus-one](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0268-missing-number) |
+| [0877-stone-game](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0877-stone-game) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -90,4 +93,16 @@ Leetcode DSA problems
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0387-first-unique-character-in-a-string) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
