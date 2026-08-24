@@ -1,6 +1,6 @@
 class Solution {
     static{
-        for(int i = 0; i<60; i++){
+        for(int i = 0; i<2; i++){
              maxArea(new int[]{0,0});
         }
     }
