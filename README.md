@@ -16,6 +16,7 @@ Leetcode DSA problems
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0349-intersection-of-two-arrays) |
@@ -29,6 +30,7 @@ Leetcode DSA problems
 | [0202-happy-number](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0349-intersection-of-two-arrays) |
@@ -148,4 +150,8 @@ Leetcode DSA problems
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0202-happy-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
