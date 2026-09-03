@@ -34,6 +34,7 @@ Leetcode DSA problems
 | [0242-valid-anagram](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0387-first-unique-character-in-a-string) |
 ## Two Pointers
 |  |
@@ -79,6 +80,7 @@ Leetcode DSA problems
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0387-first-unique-character-in-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -104,6 +106,7 @@ Leetcode DSA problems
 | [0205-isomorphic-strings](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Trie
