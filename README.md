@@ -20,6 +20,7 @@ Leetcode DSA problems
 | [0268-missing-number](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0349-intersection-of-two-arrays) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0877-stone-game](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0877-stone-game) |
 ## Hash Table
 |  |
@@ -37,6 +38,7 @@ Leetcode DSA problems
 | [0349-intersection-of-two-arrays](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
