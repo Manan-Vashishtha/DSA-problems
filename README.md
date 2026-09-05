@@ -23,6 +23,7 @@ Leetcode DSA problems
 | [0349-intersection-of-two-arrays](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0877-stone-game](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0877-stone-game) |
+| [1207-unique-number-of-occurrences](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/1207-unique-number-of-occurrences) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,6 +42,7 @@ Leetcode DSA problems
 | [0387-first-unique-character-in-a-string](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0771-jewels-and-stones) |
+| [1207-unique-number-of-occurrences](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/1207-unique-number-of-occurrences) |
 ## Two Pointers
 |  |
 | ------- |
