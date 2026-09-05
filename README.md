@@ -40,6 +40,7 @@ Leetcode DSA problems
 | [0383-ransom-note](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0771-jewels-and-stones](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0771-jewels-and-stones) |
 ## Two Pointers
 |  |
 | ------- |
@@ -115,6 +116,7 @@ Leetcode DSA problems
 | [0383-ransom-note](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0771-jewels-and-stones](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0771-jewels-and-stones) |
 ## Trie
 |  |
 | ------- |
