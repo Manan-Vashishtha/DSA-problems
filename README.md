@@ -14,6 +14,7 @@ Leetcode DSA problems
 | [0066-plus-one](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0219-contains-duplicate-ii) |
@@ -97,6 +98,7 @@ Leetcode DSA problems
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0268-missing-number) |
 ## String
 |  |
