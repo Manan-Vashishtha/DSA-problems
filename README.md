@@ -23,6 +23,7 @@ Leetcode DSA problems
 | [0349-intersection-of-two-arrays](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0877-stone-game](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0877-stone-game) |
+| [0977-squares-of-a-sorted-array](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/1207-unique-number-of-occurrences) |
 ## Hash Table
 |  |
@@ -58,6 +59,7 @@ Leetcode DSA problems
 | [0349-intersection-of-two-arrays](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0680-valid-palindrome-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -72,6 +74,7 @@ Leetcode DSA problems
 | [0242-valid-anagram](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0349-intersection-of-two-arrays) |
+| [0977-squares-of-a-sorted-array](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
 |  |
 | ------- |
