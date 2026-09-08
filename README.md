@@ -83,6 +83,7 @@ Leetcode DSA problems
 | [0202-happy-number](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0877-stone-game) |
+| [3870-count-commas-in-range](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/3870-count-commas-in-range) |
 ## Divide and Conquer
 |  |
 | ------- |
