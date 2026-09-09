@@ -61,6 +61,7 @@ Leetcode DSA problems
 | [0557-reverse-words-in-a-string-iii](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0977-squares-of-a-sorted-array) |
+| [1768-merge-strings-alternately](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/1768-merge-strings-alternately) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -127,6 +128,7 @@ Leetcode DSA problems
 | [0557-reverse-words-in-a-string-iii](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0680-valid-palindrome-ii) |
 | [0771-jewels-and-stones](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0771-jewels-and-stones) |
+| [1768-merge-strings-alternately](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/1768-merge-strings-alternately) |
 ## Trie
 |  |
 | ------- |
