@@ -27,6 +27,7 @@ Leetcode DSA problems
 | [0877-stone-game](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/1089-duplicate-zeros) |
 | [1207-unique-number-of-occurrences](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/1207-unique-number-of-occurrences) |
 ## Hash Table
 |  |
@@ -69,6 +70,7 @@ Leetcode DSA problems
 | [0844-backspace-string-compare](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/1089-duplicate-zeros) |
 | [1768-merge-strings-alternately](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/1768-merge-strings-alternately) |
 ## Dynamic Programming
 |  |
