@@ -11,6 +11,7 @@ Leetcode DSA problems
 | [0014-longest-common-prefix](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0088-merge-sorted-array) |
@@ -116,6 +117,7 @@ Leetcode DSA problems
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0350-intersection-of-two-arrays-ii) |
