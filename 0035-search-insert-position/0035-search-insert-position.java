@@ -9,12 +9,10 @@ class Solution {
                 return mid;
             }else if(arr[mid] < target){
                 l = mid+1;
-                count = mid;
-                count++;
+                count = l;
             }else{
                 r = mid-1;
-                count = mid-1;
-                count++;
+                count = r+1;
             }
         }
         return count;
