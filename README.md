@@ -24,6 +24,7 @@ Leetcode DSA problems
 | [0349-intersection-of-two-arrays](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0704-binary-search](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0977-squares-of-a-sorted-array) |
@@ -118,6 +119,7 @@ Leetcode DSA problems
 | [0268-missing-number](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0704-binary-search](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
