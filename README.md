@@ -119,6 +119,7 @@ Leetcode DSA problems
 | ------- |
 | [0035-search-insert-position](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0374-guess-number-higher-or-lower) |
@@ -208,5 +209,6 @@ Leetcode DSA problems
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
