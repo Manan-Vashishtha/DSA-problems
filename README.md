@@ -149,6 +149,7 @@ Leetcode DSA problems
 | [0771-jewels-and-stones](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0844-backspace-string-compare) |
 | [1768-merge-strings-alternately](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/1768-merge-strings-alternately) |
+| [3498-reverse-degree-of-a-string](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/3498-reverse-degree-of-a-string) |
 ## Trie
 |  |
 | ------- |
@@ -206,6 +207,7 @@ Leetcode DSA problems
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0844-backspace-string-compare) |
+| [3498-reverse-degree-of-a-string](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/3498-reverse-degree-of-a-string) |
 ## Interactive
 |  |
 | ------- |
