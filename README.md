@@ -98,6 +98,7 @@ Leetcode DSA problems
 | [0066-plus-one](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0367-valid-perfect-square) |
 | [0877-stone-game](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0877-stone-game) |
 | [3870-count-commas-in-range](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/3870-count-commas-in-range) |
 ## Divide and Conquer
@@ -122,6 +123,7 @@ Leetcode DSA problems
 | [0278-first-bad-version](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0704-binary-search) |
 ## Bit Manipulation
