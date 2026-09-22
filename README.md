@@ -96,6 +96,7 @@ Leetcode DSA problems
 | ------- |
 | [0013-roman-to-integer](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0367-valid-perfect-square) |
@@ -119,6 +120,7 @@ Leetcode DSA problems
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0349-intersection-of-two-arrays) |
@@ -215,4 +217,8 @@ Leetcode DSA problems
 | ------- |
 | [0278-first-bad-version](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0374-guess-number-higher-or-lower) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
