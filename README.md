@@ -36,6 +36,7 @@ Leetcode DSA problems
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0202-happy-number) |
@@ -137,6 +138,7 @@ Leetcode DSA problems
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -204,6 +206,7 @@ Leetcode DSA problems
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
