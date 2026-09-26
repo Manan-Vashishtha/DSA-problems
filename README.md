@@ -32,6 +32,7 @@ Leetcode DSA problems
 | [0977-squares-of-a-sorted-array](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/1089-duplicate-zeros) |
 | [1207-unique-number-of-occurrences](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/1207-unique-number-of-occurrences) |
+| [1672-richest-customer-wealth](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
 | ------- |
@@ -228,4 +229,8 @@ Leetcode DSA problems
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0069-sqrtx) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
