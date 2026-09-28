@@ -20,7 +20,6 @@ class Solution {
                 map2.remove(s.charAt(i-k));
             }
             map2.put(s.charAt(i), map2.getOrDefault(s.charAt(i), 0)+1);
-            System.out.println(map2);
             if(map1.equals(map2)){
                 return true;
             }
