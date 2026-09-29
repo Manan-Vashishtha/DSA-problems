@@ -10,8 +10,8 @@ class Solution {
             if(height[left] > height[right]){
                 right--;
             }else{
-                left++;
-            }
+                 left++;
+            }  
         }
         return maxA;
     }
