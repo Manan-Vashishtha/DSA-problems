@@ -18,6 +18,7 @@ Leetcode DSA problems
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0268-missing-number) |
@@ -126,6 +127,7 @@ Leetcode DSA problems
 | ------- |
 | [0035-search-insert-position](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0069-sqrtx) |
+| [0209-minimum-size-subarray-sum](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0349-intersection-of-two-arrays) |
@@ -211,6 +213,7 @@ Leetcode DSA problems
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0643-maximum-average-subarray-i) |
@@ -237,4 +240,8 @@ Leetcode DSA problems
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/1672-richest-customer-wealth) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
