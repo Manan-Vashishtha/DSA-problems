@@ -34,6 +34,7 @@ Leetcode DSA problems
 | [1089-duplicate-zeros](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/1089-duplicate-zeros) |
 | [1207-unique-number-of-occurrences](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/1207-unique-number-of-occurrences) |
 | [1672-richest-customer-wealth](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/1672-richest-customer-wealth) |
+| [1695-maximum-erasure-value](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/1695-maximum-erasure-value) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,6 +57,7 @@ Leetcode DSA problems
 | [0567-permutation-in-string](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0771-jewels-and-stones) |
 | [1207-unique-number-of-occurrences](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/1207-unique-number-of-occurrences) |
+| [1695-maximum-erasure-value](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/1695-maximum-erasure-value) |
 ## Two Pointers
 |  |
 | ------- |
@@ -218,6 +220,7 @@ Leetcode DSA problems
 | [0567-permutation-in-string](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1695-maximum-erasure-value](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/1695-maximum-erasure-value) |
 ## Stack
 |  |
 | ------- |
