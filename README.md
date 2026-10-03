@@ -148,6 +148,7 @@ Leetcode DSA problems
 | [0003-longest-substring-without-repeating-characters](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0125-valid-palindrome) |
@@ -224,6 +225,7 @@ Leetcode DSA problems
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0020-valid-parentheses) |
 | [0844-backspace-string-compare](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0844-backspace-string-compare) |
 ## Simulation
 |  |
@@ -247,4 +249,8 @@ Leetcode DSA problems
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0209-minimum-size-subarray-sum) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
