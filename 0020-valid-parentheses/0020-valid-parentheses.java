@@ -8,7 +8,6 @@ class Solution {
                 if (stack.isEmpty()) {
                     return false;
                 }
-                // char ch = stack.peek();
                 if (stack.peek() == '(' && s.charAt(i) == ')') {
                     stack.pop();
                 } else if (stack.peek() == '[' && s.charAt(i) == ']') {
