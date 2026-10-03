@@ -27,6 +27,7 @@ Leetcode DSA problems
 | [0350-intersection-of-two-arrays-ii](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0905-sort-array-by-parity) |
@@ -226,10 +227,12 @@ Leetcode DSA problems
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0020-valid-parentheses) |
+| [0682-baseball-game](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0844-backspace-string-compare) |
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0844-backspace-string-compare) |
 | [3498-reverse-degree-of-a-string](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/3498-reverse-degree-of-a-string) |
 ## Interactive
