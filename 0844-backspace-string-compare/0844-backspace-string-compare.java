@@ -1,40 +1,25 @@
 class Solution {
     public boolean backspaceCompare(String s, String t) {
-        StringBuilder str1 = new StringBuilder();
-        StringBuilder str2 = new StringBuilder();
+        Stack<Character> stack1 = new Stack<>();
+        Stack<Character> stack2 = new Stack<>();
 
-        int cHash = 0;
-        for (int i = s.length() - 1; i >= 0; i--) {
-            if (s.charAt(i) == '#') {
-                cHash++;
-            }
-            if (cHash == 0) {
-                str1.append(s.charAt(i));
-            }
-            if (cHash > 0 && s.charAt(i) != '#') {
-                cHash--;
+        for (int i = 0; i < s.length(); i++) {
+            if(s.charAt(i)=='#' &&!stack1.isEmpty()){
+                stack1.pop();
+            }else if(s.charAt(i) != '#'){
+                stack1.add(s.charAt(i));
             }
         }
-        cHash = 0;
-        for (int i = t.length() - 1; i >= 0; i--) {
-            if (t.charAt(i) == '#') {
-                cHash++;
-            }
-            if (cHash == 0) {
-                str2.append(t.charAt(i));
-            }
-            if (cHash > 0 && t.charAt(i) != '#') {
-                cHash--;
+        for (int i = 0; i < t.length(); i++) {
+            if(t.charAt(i)=='#' && !stack2.isEmpty()){
+                stack2.pop();
+            }else if(t.charAt(i) != '#'){
+                stack2.add(t.charAt(i));
             }
         }
-        if (str1.length() != str2.length()) {
-            return false;
+        if(stack1.equals(stack2)){
+            return true;
         }
-        for (int i = 0; i < str1.length(); i++) {
-            if (str1.charAt(i) != str2.charAt(i)) {
-                return false;
-            }
-        }
-        return true;
+        return false;
     }
 }
