@@ -228,6 +228,7 @@ Leetcode DSA problems
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0844-backspace-string-compare) |
 | [1544-make-the-string-great](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/1544-make-the-string-great) |
@@ -258,4 +259,8 @@ Leetcode DSA problems
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0020-valid-parentheses) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
