@@ -36,6 +36,7 @@ Leetcode DSA problems
 | [1207-unique-number-of-occurrences](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/1207-unique-number-of-occurrences) |
 | [1672-richest-customer-wealth](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/1672-richest-customer-wealth) |
 | [1695-maximum-erasure-value](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/1695-maximum-erasure-value) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -264,4 +265,8 @@ Leetcode DSA problems
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0155-min-stack) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
