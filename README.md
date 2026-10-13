@@ -180,6 +180,7 @@ Leetcode DSA problems
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0933-number-of-recent-calls](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0933-number-of-recent-calls) |
 ## Minimax
 |  |
 | ------- |
@@ -268,8 +269,13 @@ Leetcode DSA problems
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0155-min-stack) |
+| [0933-number-of-recent-calls](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0933-number-of-recent-calls) |
 ## Enumeration
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/2778-sum-of-squares-of-special-elements) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
