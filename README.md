@@ -179,6 +179,7 @@ Leetcode DSA problems
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0933-number-of-recent-calls](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0933-number-of-recent-calls) |
 ## Minimax
@@ -233,6 +234,7 @@ Leetcode DSA problems
 | ------- |
 | [0020-valid-parentheses](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0682-baseball-game](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/1021-remove-outermost-parentheses) |
@@ -269,6 +271,7 @@ Leetcode DSA problems
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0933-number-of-recent-calls](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0933-number-of-recent-calls) |
 ## Enumeration
 |  |
