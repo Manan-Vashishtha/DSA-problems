@@ -112,6 +112,7 @@ Leetcode DSA problems
 | [0268-missing-number](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0367-valid-perfect-square) |
 | [0877-stone-game](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0877-stone-game) |
+| [2235-add-two-integers](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/2235-add-two-integers) |
 | [3870-count-commas-in-range](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/3870-count-commas-in-range) |
 ## Divide and Conquer
 |  |
