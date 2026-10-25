@@ -11,6 +11,6 @@ class Solution {
             set.add(s.charAt(i));
             maxL= Math.max(maxL, i-j+1);
         }
-          return maxL;
+        return maxL;
     }
 }
