@@ -7,7 +7,7 @@ class Solution {
             map.put('L' , 50);
             map.put('C' , 100);
             map.put('D' , 500);
-            map.put('M' , 1000);
+            map.put('M' ,  1000);
             
             int sum = 0;
             int j = 1;
@@ -21,6 +21,8 @@ class Solution {
             }
             sum +=map.get(s.charAt(s.length() - 1));
                 
+
             return sum;
+
     }
 }
