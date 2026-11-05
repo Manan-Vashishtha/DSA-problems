@@ -44,6 +44,7 @@ Leetcode DSA problems
 | [0003-longest-substring-without-repeating-characters](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0205-isomorphic-strings) |
@@ -73,6 +74,7 @@ Leetcode DSA problems
 | [0088-merge-sorted-array](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0344-reverse-string) |
@@ -292,6 +294,7 @@ Leetcode DSA problems
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Manan-Vashishtha/DSA-problems/tree/master/0206-reverse-linked-list) |
 ## Recursion
